@@ -1,0 +1,7 @@
+{
+  "name": "AquaTrack Ghana",
+  "description": "Customer data collection and visualization platform for sachet water distribution.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
